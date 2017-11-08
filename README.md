@@ -2,6 +2,7 @@
 > A readme list of podcasts for the discerning agile team member
 
 ## Agile
+- [&#127911;](http://agile.fm) Agile.fm
 - [&#127911;](http://feeds.feedburner.com/meta-cast) Meta-Cast, an agile podcast
 - [&#127911;](http://feeds.feedburner.com/agileforhumans) Agile for Humans - A Podcast Devoted to Agile Software Development
 - [&#127911;](https://agilein3minut.es/archive/index.rss) Agile in 3 Minutes
